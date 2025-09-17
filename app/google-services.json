@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175806206876",
+    "project_id": "earnity-40046",
+    "storage_bucket": "earnity-40046.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175806206876:android:2126cb6b0b0ad1c9a36e59",
+        "android_client_info": {
+          "package_name": "com.nikhil.earnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175806206876-i0bo8ddkkir3s6bqvhod3krjecq1mtuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXcG_Y3mC2_waXl1v-8jVtVWbLbWLxBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175806206876-i0bo8ddkkir3s6bqvhod3krjecq1mtuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

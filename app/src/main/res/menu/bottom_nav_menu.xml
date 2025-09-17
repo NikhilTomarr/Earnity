@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_ai"
+        android:icon="@drawable/ailogo"
+        android:title="AI" />
+    <item
+        android:id="@+id/nav_portal"
+        android:icon="@drawable/portal"
+        android:title="Portal" />
+    <item
+        android:id="@+id/nav_earn"
+        android:icon="@drawable/earnlogo"
+        android:title="Earn" />
+    <item
+        android:id="@+id/nav_skills"
+        android:icon="@drawable/skills"
+        android:title="Skills" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+</menu>
